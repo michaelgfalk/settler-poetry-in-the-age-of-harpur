@@ -21,13 +21,13 @@ In interview with Harpur's editor, Paul Eggert, conducted by Michael Falk.
 
 ### 2:30-3:30: Cultures of Print 1: Imperial
 
-Papers from [Hannah Murray]({% link _posts/2025-10-28-hannah-murray.md %}) and [Paul Eggert]({% link _posts/2025-10-28-eggert-paul.md %}) on Charles Harpur in the global context of Nineteenth-Century English literature. Chair: Will Christie.
+Papers from [Hannah Murray]({% post_url 2025-10-28-hannah-murray %}) and [Paul Eggert]({% post_url 2025-10-28-eggert-paul %}) on Charles Harpur in the global context of Nineteenth-Century English literature. Chair: Will Christie.
 
 ### 3:30-3:45: Comfort Break
 
 ### 3:45-4:45: Cultures of Print 2: Romantic
 
-Papers from [Georgie Williamson]({% link _posts/2025-10-28-geordie-williamson.md %}) and [Stephanie Trigg]({% link _posts/2025-10-28-stephanie-trigg.md %}) on Harpur's engagement with Romantic poetics and medievalism. Chair: Mairi Stirling Hill.
+Papers from [Geordie Williamson]({% post_url 2025-10-28-geordie-williamson %}) and [Stephanie Trigg]({% post_url 2025-10-28-stephanie-trigg %}) on Harpur's engagement with Romantic poetics and medievalism. Chair: Mairi Stirling Hill.
 
 ### Evening 
 
@@ -43,7 +43,7 @@ Enjoy Middle Eastern treats, tea and coffee in the Research Lounge, provided by 
 
 ### 10:30-12:00: Ecocritical Readigns
 
-Papers from [Rachael Weaver]({% link _posts/2025-10-29-rachael-weaver.md %}), [Fiannuala Morgan]({% link _posts/2025-10-29-fiannuala-morgan.md %}) and [Alexis Harley](% link _posts/2025-10-29-alexis-harley.md %) on Harpur's ecopoetics, covering birds, insects and fires. Chair: Claire Knowles.
+Papers from [Rachael Weaver]({% post_url 2025-10-29-rachael-weaver %}), [Fiannuala Morgan]({% post_url 2025-10-29-fiannuala-morgan %}) and [Alexis Harley](% link _posts/2025-10-29-alexis-harley.md %) on Harpur's ecopoetics, covering birds, insects and fires. Chair: Claire Knowles.
 
 ### 12:00-1:00: Lunch
 
@@ -51,13 +51,13 @@ Enjoy the final delivery of catering from the [Asylum Seeker Resource Centre](ht
 
 ### 1:00-3:00: Political Identities
 
-Papers from [Michael Falk and Marc Mierowsky]({% link _posts/2025-10-29-falk-mierowsky.md %}), [Michael Farrell]({% link _posts/2025-10-29-michael-farrell.md %}), [Jonathan Dunk]({% link _posts/2025-10-29-jonathan-dunk.md %}) and [Ken Gelder]({% link _posts/2025-10-29-ken-gelder.md %}) on Harpur's peculiar brand of integrationist settler-colonial liberalism. Chair: Justin Clemens.
+Papers from [Michael Falk and Marc Mierowsky]({% post_url 2025-10-29-falk-mierowsky %}), [Michael Farrell]({% post_url 2025-10-29-michael-farrell %}), [Jonathan Dunk]({% post_url 2025-10-29-jonathan-dunk %}) and [Ken Gelder]({% post_url 2025-10-29-ken-gelder %}) on Harpur's peculiar brand of integrationist settler-colonial liberalism. Chair: Justin Clemens.
 
 ### 3:00-3:15: Comfort Break
 
 ### 3:15-4:15: Keynote Address
 
-Tom Ford presents work from his ARC Future Fellowship on colonial Australian poetry, considering [Harpur in the Squatting Age of Australian Poetry]({% link _posts/2025-10-29-tom-ford.md %}).
+Tom Ford presents work from his ARC Future Fellowship on colonial Australian poetry, considering [Harpur in the Squatting Age of Australian Poetry]({% post_url 2025-10-29-tom-ford %}).
 
 ### 4:15-4:30: Closing
 
