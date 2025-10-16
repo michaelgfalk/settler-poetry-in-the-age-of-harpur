@@ -1,0 +1,12 @@
+---
+layout: post
+title: "An Embarrassment of Species: Charles Harpur and How to Sing Australia’s Native Birds."
+date: 2025-10-29
+author: Rachael Weaver
+---
+
+This paper will examine the superabundance of bird species in Charles Harpur’s poetry, focussing especially on the prose notes to his Kangaroo Hunt, or a Morning in the Mountains. It thinks about bountiful species as an embarrassment of riches – Australia’s many remarkable native bird species were something this poet studied keenly and held dear. They populate his writings, inspiring some of the best and worst of his lines. But the paper thinks about embarrassment in other ways too. In colonial times, Australia’s birds themselves sometimes elicited a kind of embarrassment linked to insufficiency or failure. We now know that evolutionarily speaking ‘Australia is the cradle of all songbirds and many other groups of birds’ (Gisela Kaplan, *Bird Minds*, 2015), but in the nineteenth century, they were often seen as tuneless and inferior to British and European darlings like the nightingale and blackbird – especially when it came to poetry. Harpur tried to change these views, defending Australia’s birds with a mixture of stories and information, poetic elevation, and humour. Harpur himself was often financially embarrassed and he had an embarrassing insistence on his own status as the first and most important colonial Australian-born poet. After he was dead, well-meaning defenders (such as his protégé, Henry Kendall) devoted embarrassing tributes to him. The paper will explore a selection of these embarrassments, regarding them as a potentially positive and productive way to reframe understandings both of Australian native bird species, and Harpur’s career and legacy.
+
+---
+
+**Rachael Weaver** is an ARC Future Fellow at the University of Tasmania. Her Fellowship project is *The Economics of Birds: Colonial Australia's Relationships to Native Species*, which sets out to examine how Australia has understood, and valued, its extraordinary native birds. She is the author of many books and articles on colonial Australian literature, including most recently *Colonial Australian Fiction: Character Types, Social Formations and the Colonial Economy* (SUP, 2017) and *The Colonial Kangaroo Hunt* (Miegunyah/MUP, 2020), and *Colonial Adventure* (Miegunyah/MUP, 2024), all co-authored with Ken Gelder.
