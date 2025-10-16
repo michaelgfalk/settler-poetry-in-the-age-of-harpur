@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   settler poetry in the age of a troubled and troubling Romantic 
 baseurl: "/settler-poetry-in-the-age-of-harpur" # the subpath of your site, e.g. /blog
 url: "https://michaelgfalk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
 github_username:  michaelgfalk
 
 # Build settings
