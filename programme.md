@@ -43,7 +43,7 @@ Enjoy Middle Eastern treats, tea and coffee in the Research Lounge, provided by 
 
 ### 10:30-12:00: Ecocritical Readigns
 
-Papers from [Rachael Weaver]({% post_url 2025-10-29-rachael-weaver %}), [Fiannuala Morgan]({% post_url 2025-10-29-fiannuala-morgan %}) and [Alexis Harley](% link _posts/2025-10-29-alexis-harley.md %) on Harpur's ecopoetics, covering birds, insects and fires. Chair: Claire Knowles.
+Papers from [Rachael Weaver]({% post_url 2025-10-29-rachael-weaver %}), [Fiannuala Morgan]({% post_url 2025-10-29-fiannuala-morgan %}) and [Alexis Harley]({% post_url 2025-10-29-alexis-harley %}) on Harpur's ecopoetics, covering birds, insects and fires. Chair: Claire Knowles.
 
 ### 12:00-1:00: Lunch
 
