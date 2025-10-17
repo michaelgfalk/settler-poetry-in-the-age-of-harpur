@@ -1,5 +1,5 @@
 ---
-title: "Harpur's Satirical Sonnets"
+title: "Charles Harpur and the (Satirical, Political) Sonnet"
 author: Ken Gelder
 layout: post
 date: 2025-10-29
