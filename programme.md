@@ -19,15 +19,11 @@ Acknowledgement of country.
 
 In interview with Harpur's editor, Paul Eggert, conducted by Michael Falk.
 
-### 2:30-3:30: Cultures of Print 1: Imperial
+### 2:30-4:00: Cultures of Print
 
-Papers from [Hannah Murray]({% post_url 2025-10-28-hannah-murray %}) and [Paul Eggert]({% post_url 2025-10-28-eggert-paul %}) on Charles Harpur in the global context of Nineteenth-Century English literature. Chair: Will Christie.
+Papers from [Hannah Murray]({% post_url 2025-10-28-hannah-murray %}), [Paul Eggert]({% post_url 2025-10-28-eggert-paul %}) and [Stephanie Trigg]({% post_url 2025-10-28-stephanie-trigg %}) on Charles Harpur in the global contexts of Romanticism and Medievalism. Chair: Will Christie.
 
-### 3:30-3:45: Comfort Break
-
-### 3:45-4:45: Cultures of Print 2: Romantic
-
-Papers from [Geordie Williamson]({% post_url 2025-10-28-geordie-williamson %}) and [Stephanie Trigg]({% post_url 2025-10-28-stephanie-trigg %}) on Harpur's engagement with Romantic poetics and medievalism. Chair: Mairi Stirling Hill.
+*Unfortunately Anna Johnston and Geordie Williamson are unable to attend.*
 
 ### Evening 
 
