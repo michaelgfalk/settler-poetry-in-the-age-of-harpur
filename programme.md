@@ -17,7 +17,7 @@ Acknowledgement of country.
 
 ### 1:30-2:30: Harpur's Legacy
 
-In interview with Harpur's editor, Paul Eggert, conducted by Michael Falk.
+An interview with Harpur's editor, Paul Eggert, conducted by Michael Falk.
 
 ### 2:30-4:00: Cultures of Print
 
